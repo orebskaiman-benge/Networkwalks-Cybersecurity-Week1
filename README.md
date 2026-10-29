@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34133515/README.md)
-# Networkwalks-Cybersecurity-Week1# Networkwalks Cybersecurity Internship — Week 1
+# Networkwalks Cybersecurity Internship — Week 1
 
 ## Project: VirtualBox and Kali Linux Lab Setup (WK1-PM1)
 
@@ -15,9 +14,9 @@ For this practical task, I configured a cybersecurity lab using Oracle VirtualBo
 ## Tasks completed
 
 - Installed and configured Oracle VirtualBox.
-- Created a custom NAT Network using the given IP address.
+- Created a custom NAT Network using the `10.0.0.0/24` subnet.
 - Imported and configured Kali Linux as the cybersecurity testing machine.
-- Configured the Kali Linux IP address as required by the task.
+- Configured the Kali Linux IP address as `10.0.0.2/24`, as required by the task.
 - Checked internet connectivity from the Kali Linux virtual machine.
 - Enabled clipboard sharing and drag-and-drop in the VM settings.
 - Configured a shared folder pointing to the host's `/downloads` folder.
@@ -76,5 +75,3 @@ Thank you to Networkwalks IT Solutions & Training and Waqas Karim (CCIE) for the
 ---
 
 **Note:** This is a personal learning record. Follow the training provider's rules and do not upload confidential course material, offer letters, passwords, tokens, private network information, or screenshots containing personal data.
-
-Week 1 cybersecurity internship project documenting VirtualBox and Kali Linux lab setup, virtual networking, and configuration.
