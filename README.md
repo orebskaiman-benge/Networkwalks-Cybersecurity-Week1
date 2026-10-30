@@ -32,7 +32,7 @@ For this practical task, I configured a cybersecurity lab using Oracle VirtualBo
 | Network mode | NAT Network |
 | Network subnet | `10.0.0.0/24` |
 | Kali Linux address | `10.0.0.2/24` |
-| Internet access | Verified, if confirmed in your lab |
+| Internet access | Verified, Confirmed in lab |
 | Snapshot | Created |
 
 > Keep only the statements that match what you personally verified. If internet connectivity was not tested successfully, change that line to “Configured and troubleshooting internet connectivity.”
@@ -72,6 +72,4 @@ This repository documents a training lab setup. Any future testing will be limit
 
 Thank you to Networkwalks IT Solutions & Training and Waqas Karim (CCIE) for the learning opportunity and guidance.
 
----
 
-**Note:** This is a personal learning record. Follow the training provider's rules and do not upload confidential course material, offer letters, passwords, tokens, private network information, or screenshots containing personal data.
